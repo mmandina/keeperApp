@@ -1,5 +1,5 @@
 import React from 'react'
 
 export default function Note() {
-  return<div className='note'><h1>title</h1><p>contents</p></div>
+  return<div className='note'><h1>Note Title</h1><p>Note Contents</p></div>
 }
